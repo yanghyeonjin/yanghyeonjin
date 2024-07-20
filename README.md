@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=yanghyeonjin&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghyeonjin&layout=compact&theme=dracula)
+
 <!--
 **yanghyeonjin/yanghyeonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
