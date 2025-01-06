@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghyeonjin&layout=compact&theme=graywhite)
 
 ### About Me
-2024.06 - 2024.12 한화시스템 BEYOND SW캠프 9기 (우수 수료생 👊)
+2024.06 - 2024.12 한화시스템 BEYOND SW캠프 9기
 
 ### 스킬
 #### Main
@@ -17,7 +17,9 @@
 #### Sub
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
 <br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" /> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+<br>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" /> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot" /> 
 
 <!--
 **yanghyeonjin/yanghyeonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
