@@ -5,10 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=yanghyeonjin&show_icons=true&theme=graywhite)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghyeonjin&layout=compact&theme=graywhite)
 
-### About Me
-2024.06 - 2024.12 한화시스템 BEYOND SW캠프 9기
-
-### 스킬
+## 스킬
 #### Main
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="javascript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <br>
